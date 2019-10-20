@@ -5,6 +5,10 @@
   "author": "withmingallhub <40680331+withmingallhub@users.noreply.github.com>",
   "private": false,
   "main":"dist/ming-components.min.js" ,
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:withmingallhub/mingui.git"
+  },
   "files": [
     "dist",
     "src/components"
