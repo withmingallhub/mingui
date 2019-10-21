@@ -1,8 +1,9 @@
 {
-  "name": "ming-ui",
+  "name": "ming-components",
   "version": "1.0.4",
   "description": "A Vue.js project",
   "author": "withmingallhub <40680331+withmingallhub@users.noreply.github.com>",
+  "licentse":"MIT",
   "private": false,
   "main": "dist/ming-components.min.js",
   "repository": {

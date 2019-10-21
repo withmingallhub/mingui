@@ -14,9 +14,7 @@ module.exports = {
   context: path.resolve(__dirname, '../'),
   entry: {
     // app: './src/main.js' //入口文件。 main.js中加载的是app.vue文件，所以app.vue是渲染的入口
-    app:process.env.NODE_ENV === 'production'
-    ? '../src/components/index.js'
-    :'../src/main.js'
+    app:process.env.NODE_ENV === 'production' ? '../src/components/index.js' :'../src/main.js'
     // 环境变量为production 导入index.js
   },
   output: {

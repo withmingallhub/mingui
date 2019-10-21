@@ -26,9 +26,9 @@ const webpackConfig = merge(baseWebpackConfig, {
   devtool: config.build.productionSourceMap ? config.build.devtool : false,
   output: {
     path: config.build.assetsRoot,
-    publicPath:config.build.assetsPublicPath,
     // filename: utils.assetsPath('js/[name].[chunkhash].js'),
     // chunkFilename: utils.assetsPath('js/[id].[chunkhash].js')
+    publicPath:config.build.assetsPublicPath,
     filename: 'ming-components.min.js',
     library:'ming-components',
     libraryTarget:'umd',
