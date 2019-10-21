@@ -5,7 +5,7 @@
   "author": "withmingallhub <40680331+withmingallhub@users.noreply.github.com>",
   "licentse": "MIT",
   "private": false,
-  "main": "dist/ming-components.min.js",
+  "main": "dist/tianmingshuang-components.min.js",
   "repository": {
     "type": "git",
     "url": "git@github.com:withmingallhub/mingui.git"
