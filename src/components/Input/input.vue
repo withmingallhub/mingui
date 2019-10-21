@@ -1,6 +1,6 @@
 <template>
     <div>
-        <input type="text" value="lalalla">    
+        <div>这是组件，封装的组件</div>
     </div>
 </template>
 
