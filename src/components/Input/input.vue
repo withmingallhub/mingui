@@ -44,7 +44,7 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
+<style lang="">
 .zypc-input-first {
     border: 1px solid rgb(150, 150, 150);
     border-radius: 10px;
