@@ -11,7 +11,7 @@
             backgroundColor:backgroundColor,
             width:width,
         }" 
-        class="zypc-input-first" 
+        class="zypc-inputFirst" 
         type="text"> 
     </div>
 </template>
@@ -45,7 +45,7 @@ export default {
 </script>
 
 <style lang="">
-.zypc-input-first {
+.zypc-inputFirst {
     border: 1px solid rgb(150, 150, 150);
     border-radius: 10px;
     outline: none;
